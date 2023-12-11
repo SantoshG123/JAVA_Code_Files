@@ -1,1 +1,1 @@
-A few examples of JAVA programs that showcase various concepts inspired by daily activities from study guides to personalized notes in my day-to-day life. (Took computer science classes in high school and self-studied through computer science club & online courses/videos)
+A few examples of JAVA programs that showcase various concepts inspired by daily activities from study guides to personalized notes in my day-to-day life. 
